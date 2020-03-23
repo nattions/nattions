@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<playlist name="Animations" version="1.0" search-url="https://static.player.portcase.com/playlist/example.xml?query=[query]">
+<playlist name="Animations" version="1.0" search-url="https://github.com/nattions/nattions/blob/master/example.xml?query=[query]">
   <torrent>
       <name>Big Buck Bunny</name>
       <source>https://static.player.portcase.com/playlist/torrents/big-buck-bunny.torrent</source>
